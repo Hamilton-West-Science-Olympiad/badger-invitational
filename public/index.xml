@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the Badger Invitational! on Badger Invitational</title>
-    <link>badgerscio.com/</link>
+    <link>/</link>
     <description>Recent content in Welcome to the Badger Invitational! on Badger Invitational</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 1969 18:33:40 -0600</lastBuildDate><atom:link href="badgerscio.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 18:33:40 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Registration</title>
-      <link>badgerscio.com/register/</link>
+      <link>/register/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>badgerscio.com/register/</guid>
+      <guid>/register/</guid>
       <description>Thank you for your interest in the 2020-21 Badger Invitational.
 Registration is now open. In order to register teams, you must complete all of the steps on this page.
 There is a limit of 4 teams per school and a $50 registration fee associated with each team.
@@ -21,19 +21,19 @@ There is a limit of 4 teams per school and a $50 registration fee associated wit
     
     <item>
       <title>Results</title>
-      <link>badgerscio.com/results/</link>
+      <link>/results/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>badgerscio.com/results/</guid>
+      <guid>/results/</guid>
       <description>We are using Avogadro for tournament results. You can find the placings for Division B here and Division C here.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>badgerscio.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Wed, 31 Dec 1969 18:33:40 -0600</pubDate>
       
-      <guid>badgerscio.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>  Bart Wakker    wakker@astro.wisc.edu      Hamilton Middle School
 4801 Waukesha St
 Madison, WI 53705     </description>
