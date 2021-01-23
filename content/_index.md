@@ -19,7 +19,8 @@ In addition to the Nationals slate of events, we will also run the
 additional Wisconsin events: Code Analysis C, Code Busters B, Virtual 
 Geocaching B/C, Mystery Build B/C, Solar Power B/C, and Virology B/C.
 
-Following the tournament, we will livestream an **award ceremony Sunday, February 28, at 4pm**. A link will be distributed to coaches in advance.
+Following the tournament, we will livestream an **award ceremony Sunday, 
+February 28, at 4pm**. A link will be distributed to coaches in advance.
 
 We take pride in providing tests written by people from UW-Madison, 
 Science Olympiad alumni and subject experts. Coaches will not be 
