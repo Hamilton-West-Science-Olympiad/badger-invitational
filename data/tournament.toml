@@ -1,0 +1,15 @@
+# This file describes parameters of the tournament
+
+tagline = "The 6th annual"
+name = "Badger Invitational"
+date = "February 27, 2021"
+location = "~~Hamilton Middle School, Madison WI~~ **Online** this year!"
+
+[scilympiad]
+    home = "https://scilympiad.com/wi-badger"
+    login-id = "https://scilympiad.com/wi-badger/TakeTest/Signin"
+    login-email = "https://scilympiad.com/wi-badger/Account/Login"
+
+[results]
+    b = "https://app.avogadro.ws/wisconsin/badger-invitational-b/"
+    c = "https://app.avogadro.ws/wisconsin/badger-invitational-c/"

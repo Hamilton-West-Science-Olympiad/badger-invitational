@@ -1,0 +1,76 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Badger Invitational"
+theme = "cayman-hugo-theme"
+
+[Params]
+header_title_color = "#FFCC66"
+header_heading_color = "#CBCCC6"
+header_details_color = "#F07178"
+header_background_color = "#1F2430"
+header_background_color_secondary = "#8A919959"
+header_background_color_tertiary = "#F24236"
+overall-bg-color = "#FAFAFA"
+section_headings_color = "#FF9940"
+body_text_color = "#575F66"
+body_link_color = "#55B4D4"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.nav]]
+    name = "Event Instructions"
+    pre = "info"
+    url = "https://docs.google.com/document/d/1Ry6bYrCA5XgQ0n5WHeMRivFZjGSGkKDfHoCbcb07Vrg/view"
+    weight = 2
+
+  [[menu.nav]]
+    name = "Scilympiad"
+    pre = "external-link"
+    url = "https://scilympiad.com/wi-badger"
+    weight = 2
+
+  [[menu.nav]]
+    name = "Results"
+    pre = "award"
+    url = ""
+    weight = 3
+
+  [[menu.nav]]
+    identifier = "Division B Results"
+    name = "B"
+    parent = "Results"
+    url = "https://app.avogadro.ws/wisconsin/badger-invitational-b/"
+    weight = 1
+  
+  [[menu.nav]]
+    identifier = "Division C Results"
+    name = "C"
+    parent = "Results"
+    url = "https://app.avogadro.ws/wisconsin/badger-invitational-c/"
+    weight = 2
+    
+  [[menu.nav]]
+    name = "Register"
+    pre = "check-square"
+    url = "/register/"
+    weight = 5
+  
+  [[menu.nav]]
+    name = "Teams & Schedule"
+    pre = "list"
+    url = "https://docs.google.com/spreadsheets/d/1Pb5mzA69tZdj4wsLTojCrKfPuuK3e0BijD5boORwwVU/view"
+    weight = 6
+
+  [[menu.nav]]
+    name = "Contact"
+    pre = "at-sign"
+    url = "/contact/"
+    weight = 7
+
+[markup.goldmark.renderer]
+  unsafe = true
