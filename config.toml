@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://badger-invitational.hamiltonwestscio.com"
 languageCode = "en-us"
 title = "Badger Invitational"
 theme = "cayman-hugo-theme"
