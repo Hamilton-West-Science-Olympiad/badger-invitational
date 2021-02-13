@@ -3,9 +3,6 @@ languageCode = "en-us"
 title = "Badger Invitational"
 theme = "cayman-hugo-theme"
 
-# a restriction of Github Pages, put built website into "docs" directory
-publishDir = "docs"
-
 [Params]
 header_title_color = "#FFCC66"
 header_heading_color = "#CBCCC6"
