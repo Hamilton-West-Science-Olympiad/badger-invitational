@@ -71,6 +71,12 @@ body_link_color = "#55B4D4"
     pre = "at-sign"
     url = "/contact/"
     weight = 7
+  
+  [[menu.nav]]
+    name = "Troubleshooting"
+    pre = "activity"
+    url = "https://docs.google.com/spreadsheets/d/1GwasxAWleogCQxIRkWNIvXVTDClQDWmSurvakAO3tl0/edit#gid=0"
+    weight = 8
 
 [markup.goldmark.renderer]
   unsafe = true

@@ -1,15 +1,24 @@
 <section class="page-header">
-  <h2 class="project-tagline">
+  <!-- If there is a logo for the tournament set in data/tournament.toml, use that. -->
+  {{ if isset $.Site.Data.tournament "logo" }}
+    <div class="project-logo-wrapper">
+     <img class="project-logo" src="{{ .Site.BaseURL }}/{{ $.Site.Data.tournament.logo.src }}" alt="tournament logo"></img>
+    </div>
+  <!-- Otherwise, display the tournament name and tagline in the header. -->
+  {{ else }}
     {{ with $.Site.Data.tournament.tagline }}
-      {{ $.Site.Data.tournament.tagline | default "add tagline to data/tournament.toml" | markdownify }}
+    <h2 class="project-tagline">
+      {{ $.Site.Data.tournament.tagline | markdownify }}
+    </h2>
     {{ end }}
-  </h2>
+
     <h1 class="project-name">
       <a href="{{ .Site.BaseURL }}">
       {{ $.Site.Data.tournament.name | default "add tournament name to data/tournament.toml" | markdownify }}
-    </a>  
-
+      </a>  
     </h1>
+  {{ end }}
+
   <ul class="competition-details">
     <li><i class="feather" data-feather="calendar"></i>{{ $.Site.Data.tournament.date | default "date" | markdownify}}
     <li><i class="feather" data-feather="map-pin"></i>{{ $.Site.Data.tournament.location | default "location" | markdownify}}

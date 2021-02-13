@@ -5,6 +5,9 @@ name = "Badger Invitational"
 date = "February 27, 2021"
 location = "~~Hamilton Middle School, Madison WI~~ **Online** this year!"
 
+[logo]
+    src = "badger.png"
+
 [scilympiad]
     home = "https://scilympiad.com/wi-badger"
     login-id = "https://scilympiad.com/wi-badger/TakeTest/Signin"
