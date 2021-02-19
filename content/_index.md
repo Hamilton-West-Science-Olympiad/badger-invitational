@@ -12,8 +12,8 @@ The 6th Badger Invitational will be held on February 27, 2021.
 
 We will use the **MiniSO format**, but with the addition of **video 
 submission for some build events:** Mission Possible B, Mousetrap 
-Vehicle B, and Gravity Vehicle C. Boomilever and Wright Stuff will be 
-offered as trial events.
+Vehicle B, and Gravity Vehicle C. Boomilever B/C, Elastic Launched Gliders B and 
+Wright Stuff C will be offered as trial events.
 
 In addition to the Nationals slate of events, we will also run the 
 additional Wisconsin events: Code Analysis C, Code Busters B, Virtual 
