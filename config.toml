@@ -75,7 +75,7 @@ body_link_color = "#55B4D4"
   [[menu.nav]]
     name = "Troubleshooting"
     pre = "activity"
-    url = "https://docs.google.com/spreadsheets/d/1GwasxAWleogCQxIRkWNIvXVTDClQDWmSurvakAO3tl0/edit#gid=0"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLSei8IZ2hT-w0reaThg7mMQWzBUPtP22gyAYmDULkEG3UQrHRA/viewform"
     weight = 8
 
 [markup.goldmark.renderer]
