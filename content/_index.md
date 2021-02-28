@@ -3,7 +3,11 @@ title: "Welcome to the Badger Invitational!"
 date: 2020
 ---
 
-Update: Award ceremony today expected to start around 5pm.
+Award Ceremony Videos:
+
+Division C Awards: [https://youtu.be/z5a2q-7_l10](https://youtu.be/z5a2q-7_l10)
+
+Division B Awards: [https://youtu.be/vzXuV6WVj38](https://youtu.be/vzXuV6WVj38)
 
 ## About the Tournament
 
