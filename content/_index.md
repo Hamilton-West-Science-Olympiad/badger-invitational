@@ -3,6 +3,8 @@ title: "Welcome to the Badger Invitational!"
 date: 2020
 ---
 
+Update: Award ceremony today expected to start around 5pm.
+
 ## About the Tournament
 
 This is a division B and C tournament organized by Hamilton/Madison West
@@ -20,7 +22,7 @@ additional Wisconsin events: Code Analysis C, Code Busters B, Virtual
 Geocaching B/C, Mystery Build B/C, Solar Power B/C, and Virology B/C.
 
 Following the tournament, we will livestream an **award ceremony Sunday, 
-February 28, at 4pm**. A link will be distributed to coaches in advance.
+February 28, around ~~4pm~~ 5pm**. A link will be distributed to coaches in advance.
 
 We take pride in providing tests written by people from UW-Madison, 
 Science Olympiad alumni and subject experts. Coaches will not be 
